@@ -40,7 +40,8 @@ Domain Controller -> Server Manager -> Tools -> Group Policy Management
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/e1ae9225-5f31-4179-b176-5227a4f442f5)
 
 
 </p>
