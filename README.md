@@ -83,29 +83,37 @@ Open "Password must meet complexity requirements" Properties. Ensure that "Passw
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/486e78b4-257d-4f84-b9cd-811e774c63c3)
 
 
 </p>
 <p>
-Open "Maximum password age" Properties. Adjust "Maximum password age" to 30 days if your scernio is high-security, or legacy-regulated settings. Or you can put 60 days if you are Ideally thinking about typical business environments that maintain good security hygiene but are not bound by strict compliance rules demanding shorter password lifetimes. Then click OK.
+Open "Maximum password age" Properties. Adjust "Maximum password age" to 30 days if your scenario is a high-security, or legacy-regulated settings. Or you can put 60 days if you are Ideally thinking about typical business environments that maintain good security hygiene but are not bound by strict compliance rules demanding shorter password lifetimes. Then click OK.
+
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/3c639423-8a55-4769-9554-089ba9fc2509)
+
+</p>
+<p>
+Open "Enforce Password History" Properties. Ensure that "Enforce Password History" stays on 24 for the domain controller. Then click OK.
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/2f8c4008-45f7-440a-8ce1-204c1f877d09)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open "Minimum Password age" Properties. Adjust "Minimum Password age" to 1 day, which usually for most secure environments. Or set it between 2-7 days for high-security or compliance-driven organizations. Then click OK.
+
 </p>
 <br />
 
