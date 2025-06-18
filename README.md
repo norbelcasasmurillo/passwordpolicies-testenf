@@ -123,7 +123,7 @@ Open "Minimum Password age" Properties. Adjust "Minimum Password age" to 1 day, 
 
 </p>
 <p>
-Open "Store Passwords using reversible encryption" Properties. Ensure "Store Passwords using reversible encryption" is diabled. It should never be enabled unless application requirements outweights the need to protect password information. Then click OK.
+Open "Store Passwords using reversible encryption" Properties. Ensure "Store Passwords using reversible encryption" is diabled. It should never be enabled unless application requirements outweights the need to protect password information. Then click OK. So the next time someone changes their password, all of these password requirements must be fulfilled.
 
 </p>
 <br />
